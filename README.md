@@ -1,12 +1,12 @@
 # Proyek Akhir Pemrograman Berbasis Objek 1
 
-Proyek ini adalah contoh sederhana aplikasi pengolahan data mahasiswa menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
+Proyek ini adalah contoh sederhana aplikasi pengolahan data Jasa Laundry menggunakan Java sebagai tugas akhir dari mata kuliah pemrograman berbasis objek 1.
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama dan NPM mahasiswa, dan memberikan output berupa informasi detail dari NPM tersebut seperti tahun masuk, fakultas, program studi, dan nomor registrasi.
+Aplikasi ini menerima input berupa nama Pelanggan dan berat Barang, dan memberikan output berupa informasi nama pelanggan, berat barang, dan harga barang.
 
-Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, dan Array.
 
 ## Penjelasan Kode
 
